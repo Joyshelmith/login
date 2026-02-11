@@ -1,2 +1,2 @@
-# login
-This is a practice on using Github
+# login page
+This is my first time using git 
